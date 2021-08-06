@@ -1,13 +1,13 @@
 {
-    "version": "6.00.50710.0",
+    "version": "6.00.50805.0",
     "description": "Royal TS is offering a unique, powerful and very flexible solution for managing Remote Desktop (RDP), Terminal (SSH, Telnet, etc), VNC and many more connections on Windows and OS X. You can easily share your configuration in a team without sharing your passwords.",
     "homepage": "https://www.royalapps.com/ts/win",
     "license": {
         "identifier": "Proprietary",
         "url": "https://support.royalapps.com/support/solutions/articles/17000074360"
     },
-    "url": "https://download.royalapps.com/RoyalTS/RoyalTS_6.00.50710.0.zip",
-    "hash": "93a2211bee32bfec49e2f2f5acbf32549b25cc2efe3816a7fcf33b12a1c59d9e",
+    "url": "https://download.royalapps.com/RoyalTS/RoyalTS_6.00.50805.0.zip",
+    "hash": "d830537da177bf20900a1a9eb267bd55bf275e4ed302084ffd75c515f28fd6c8",
     "shortcuts": [
         [
             "RoyalTS.exe",
