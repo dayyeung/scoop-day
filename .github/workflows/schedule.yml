@@ -9,7 +9,7 @@ jobs:
     steps:
       - uses: actions/checkout@main
       - name: Excavator
-        uses: Ash258/Scoop-GithubActions@stable-win
+        uses: shovel-org/GithubActions@main
         env:
           GITH_EMAIL: day.yeung@outlook.com
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
