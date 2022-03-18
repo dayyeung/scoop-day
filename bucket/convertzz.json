@@ -11,15 +11,10 @@
             "Remove-Item $dir\\ConvertZZ_v$version"
         ]
     },
-    "shortcuts": [
-        [
-            "ConvertZZ.exe",
-            "ConvertZZ"
-        ]
-    ],
+    "shortcuts": [["ConvertZZ.exe", "ConvertZZ"]],
     "bin": "ConvertZZ.exe",
     "checkver": "github",
     "autoupdate": {
-        "url": "https://github.com/flier268/ConvertZZ/releases/download/$version/ConvertZZ_v1.0.0.8.7z"
+        "url": "https://github.com/flier268/ConvertZZ/releases/download/$version/ConvertZZ_v$version.7z"
     }
 }
