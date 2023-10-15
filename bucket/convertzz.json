@@ -1,10 +1,10 @@
 {
-    "version": "1.0.0.7",
+    "version": "1.0.0.8",
     "description": "Simplified/Traditional Chinese Conversion Tool",
     "homepage": "https://github.com/flier268/ConvertZZ",
     "license": "Apache-2.0",
-    "url": "https://github.com/flier268/ConvertZZ/releases/download/1.0.0.7/ConvertZZ_v1.0.0.7.7z",
-    "hash": "1b465838797923958f6160fab5fe025360f9353fa333d010e8c419c6ffaf463c",
+    "url": "https://github.com/flier268/ConvertZZ/releases/download/1.0.0.8/ConvertZZ_v1.0.0.8.7z",
+    "hash": "1e97ded795a9ecf89e098c8337f1275f491748f3c0ffd3cdf5785bdcf24c1d1b",
     "installer": {
         "script": [
             "Move-Item $dir\\ConvertZZ_v$version\\* $dir",
